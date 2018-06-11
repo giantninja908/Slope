@@ -1,0 +1,2 @@
+# Slope
+y=mx + b
